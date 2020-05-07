@@ -28,7 +28,7 @@ https://chanzuckerberg.github.io/cellxgene/posts/launch
 pip install cellxgene
 
 
-cellxgene launch CPT_wormcells_embeddings.h5ad --open --disable-diffexp --about https://de.wormcells.com/ --title "Visualizing C. elegans single cell data. Visit de.wormcells.com to learn about the datasets" --host 0.0.0.0 --port 8080
+cellxgene launch CPT_wormcells_embeddings.h5ad --open --disable-diffexp --about https://de.wormcells.com/ --title "155k C. elegans cells - de.wormcells.com" --host 0.0.0.0 --port 8080
 
 
 
